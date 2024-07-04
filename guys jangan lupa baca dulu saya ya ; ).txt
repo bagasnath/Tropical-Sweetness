@@ -1,0 +1,12 @@
+Cara menginstal :
+1. buat database toko_jamu (Ada di folder database)
+2. link home localhost/TA_RPL4
+3. link admin localhost/TA_RPL4/admin
+
+4. akun user 
+	email : user@user.com
+	password : user
+
+5. akun admin
+	email : admin@admin.com
+	password : admin
